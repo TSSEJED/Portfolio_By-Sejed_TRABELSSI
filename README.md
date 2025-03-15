@@ -3,7 +3,7 @@
 Welcome to my portfolio! I'm Sejed Trabelssi, a developer currently studying at Formact_Bac. Below are some of my key projects showcasing my skills in frontend development.
 
 ## Projects 🏗️
-Check the live website (my portfolio) : [View Live Website](https://lpminstemclub.pages.dev/)
+Check the live website (my portfolio) : [View Live Website](sejed-trabelssi-official.pages.dev.)
 
 ## Skills 🛠️
 
