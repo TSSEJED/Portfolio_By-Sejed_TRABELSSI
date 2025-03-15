@@ -6,10 +6,9 @@ const skills = [
     { name: "CSS", icon: "fab fa-css3-alt" },
     { name: "JavaScript", icon: "fab fa-js" },
     { name: "Express.js", icon: "fab fa-node-js" },
-    { name: "AI", icon: "fas fa-brain" },
+    { name: "AI", icon: "fas fa-robot" }, // changed brain to robot
     { name: "Research Skills", icon: "fas fa-search" }
 ];
-
 class PortfolioApp {
     constructor() {
         console.log("PortfolioApp constructor called");
